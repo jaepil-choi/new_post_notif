@@ -132,3 +132,8 @@ dmypy.json
 !.vscode/extensions.json
 
 mysql_passwd.txt
+
+# Poetry
+new_post_notif/
+tests/
+README.rst
