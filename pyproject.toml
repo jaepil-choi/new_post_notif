@@ -6,6 +6,13 @@ authors = ["jaepil-choi <chljeffreyz@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+jupyterlab = "^1.2.6"
+pandas = "^1.0.1"
+beautifulsoup4 = "^4.8.2"
+scrapy-splash = "^0.7.2"
+scrapy = "^1.8.0"
+PyMySQL = "^0.9.3"
+selenium = "^3.141.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
